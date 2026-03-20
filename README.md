@@ -1,7 +1,7 @@
 # AQI-Analytics-Market-Intelligence-Pipeline-for-Air-Purifier-Industry
 End-to-End AQI Analytics &amp; Market Intelligence Pipeline for Air Purifier Industry. Built Databricks Medallion pipeline with CDC (MERGE/UPSERT), orchestrated data via ADLS &amp; ADF to Azure SQL, and developed a Power BI solution with DAX. Created a risk model (AQI + population + health) to identify demand, seasonality, and growth opportunities.
 
-# 🌍 End-to-End AQI Analytics & Market Intelligence Pipeline For the Air Purifier Industry
+# End-to-End AQI Analytics & Market Intelligence Pipeline For the Air Purifier Industry
 
 ---
 
